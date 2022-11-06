@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Android 
 - 🌱 I’m currently learning Data Structure(DSA) and Android dev
 - 👯 I’m looking to collaborate on anything fun 
-- 📫 Twitter [@Z_O_RO](https://twitter.com/Z_0_RO)
+- 📫 Twitter [@0_priyansh](https://twitter.com/0_priyansh)
 - 💬 Ask me about DSA
 - 😄 Pronouns: He/Him
 <!--
